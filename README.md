@@ -1,5 +1,9 @@
 # Trabalho Prático - Java POO
 
+## Autor
+
+Alyson Reis
+
 ## Descrição
 
 Este repositório contém os projetos desenvolvidos na disciplina de Programação Orientada a Objetos utilizando a linguagem Java.
@@ -42,10 +46,3 @@ CadastroPOO/
 CadastroPOO_2/
 ```
 
-## Autor
-
-Alyson Reis
-
-## Disciplina
-
-Programação Orientada a Objetos
