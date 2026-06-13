@@ -2,7 +2,7 @@
 
 ## Autor
 
-Alyson Reis
+Alyson dos Reis Andrade
 
 ## Descrição
 
